@@ -37,22 +37,22 @@ $(document).ready(function () {
 
     // Skills Progress Bars
     $(".pbar1").animate({
-        width: "99%",
+        width: "85%",
     }, 1500);
 
     $(".pbar2").animate({
-        width: "85%"
+        width: "80%"
     }, 1500);
 
     $(".pbar3").animate({
-        width: "78%"
+        width: "85%"
     }, 1500);
 
     $(".pbar4").animate({
-        width: "82%"
+        width: "73%"
     }, 1500);
     $(".pbar5").animate({
-        width: "90%"
+        width: "86%"
     }, 1500);
 
 
