@@ -911,3 +911,9 @@ footer p {
     background-position: 50% 50%;
     z-index: 1;
 }
+
+/*-----custom css------------*/
+
+.primary-color-imp{
+    color: #fab700 !important;
+}
