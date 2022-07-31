@@ -1,0 +1,10 @@
+{
+  "common": {
+    "WELCOME_TO_BIO_LIFE": "welcome to biolife from backend",
+    "CURRENT_DONOR": "current donor backed",
+    "NEW_DONOR": "new Donor backend"
+  },
+  "welcome":{
+    "WELCOME_DESCRIPTION":" weclome desc from backend"
+  }
+}
